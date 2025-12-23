@@ -3,3 +3,4 @@
 - Streamlit based Conversational Bot to access the above data using MCP Client(using langchain_mcp_adapters) with LangGraph's Prebuilt Supervisor Agents & Sequential flow-MCP Server connection with SSE, and JWT(scripts are in MCPClient_MCPServer_LangGraph_Scripts.zip)
 - Instead of SSE connection, streamable-http can be used as well
 - Conversational Bot's screenshot is available in PDF format
+- MCP Servers can be directly run as "python.exe mcpsfilename.py" and to run MCP Client in this case run the streamlit python file using "python.exe -m streamlit run streamlitpythonfile.py" because streamlit python ile internally calls the MCP Client function
