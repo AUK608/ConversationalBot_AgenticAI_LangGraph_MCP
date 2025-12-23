@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    admin_stmcp:
+      name: admin_stmcp
+      email: admin_stmcp@example.com
+      password: $2b$12$fc0e/JgRisPWxJ6QdzH3t.qoqfzXokdVgvNuYUjDKmWxNkbyH3vwS  # Hashed password #pwd_admin_stmcp
+cookie:
+  expiry_days: 1
+  key: st_mcp_superstrongkey
+  name: st_mcp_demo_cookie
